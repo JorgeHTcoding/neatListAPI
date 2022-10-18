@@ -1,0 +1,25 @@
+{
+  "name": "neatleastapi",
+  "version": "1.0.0",
+  "description": "App currently in development by Manuela & Jorge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeHTcoding/neatListAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeHTcoding/neatListAPI/issues"
+  },
+  "homepage": "https://github.com/JorgeHTcoding/neatListAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
